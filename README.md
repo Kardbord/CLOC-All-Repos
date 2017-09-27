@@ -1,4 +1,4 @@
 # CLOC-All-Repos
-Counts lines of code in all of a user's public GitHub repos.
+Takes a GitHub username as an argument and provides language and file statistics about that user's public repositories.
 
-Requires cloc
+Requires cloc.
